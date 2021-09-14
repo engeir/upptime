@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 635,
-    "timeWeek": 493,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "time": 510,
+    "timeDay": 673,
+    "timeWeek": 495,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/eirikenger.xyz",
     "slug": "eirik-rolland-enger",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 530,
-    "timeDay": 596,
-    "timeWeek": 521,
-    "timeMonth": 530,
-    "timeYear": 530,
-    "dailyMinutesDown": {
-      "2021-09-13": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 535,
+    "timeDay": 680,
+    "timeWeek": 542,
+    "timeMonth": 535,
+    "timeYear": 535,
+    "dailyMinutesDown": {}
   }
 ]
