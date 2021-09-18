@@ -4,9 +4,9 @@
     "url": "https://flottflyt.com",
     "icon": "https://favicons.githubusercontent.com/flottflyt.com",
     "slug": "flott-flyt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 493,
     "timeMonth": 508,
     "timeYear": 503,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-18": 0
+    }
   },
   {
     "name": "Eirik Rolland Enger",
     "url": "https://eirikenger.xyz",
     "icon": "https://favicons.githubusercontent.com/eirikenger.xyz",
     "slug": "eirik-rolland-enger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 580,
     "timeMonth": 549,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-18": 0
+    }
   }
 ]
