@@ -4,10 +4,10 @@
     "url": "https://flottflyt.com",
     "icon": "https://icons.duckduckgo.com/ip3/flottflyt.com.ico",
     "slug": "flott-flyt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 510,
@@ -16,6 +16,7 @@
     "timeMonth": 571,
     "timeYear": 517,
     "dailyMinutesDown": {
+      "2022-11-11": 1,
       "2022-09-25": 18,
       "2022-01-10": 199
     }
@@ -25,19 +26,19 @@
     "url": "https://eirikenger.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/eirikenger.xyz.ico",
     "slug": "eirik-rolland-enger",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
-    "time": 519,
-    "timeDay": 415,
-    "timeWeek": 552,
-    "timeMonth": 512,
-    "timeYear": 514,
+    "time": 529,
+    "timeDay": 2309,
+    "timeWeek": 1008,
+    "timeMonth": 627,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2022-11-11": 0,
+      "2022-11-11": 8,
       "2022-01-10": 198
     }
   }
