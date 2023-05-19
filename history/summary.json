@@ -1,22 +1,22 @@
 [
   {
     "name": "eirik.re",
-    "url": "https://eirik.rr",
-    "icon": "https://icons.duckduckgo.com/ip3/eirik.rr.ico",
+    "url": "https://eirik.re",
+    "icon": "https://icons.duckduckgo.com/ip3/eirik.re.ico",
     "slug": "eirik-re",
-    "status": "down",
-    "uptime": "9.99%",
-    "uptimeDay": "9.99%",
-    "uptimeWeek": "9.99%",
-    "uptimeMonth": "9.99%",
-    "uptimeYear": "9.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.65%",
+    "uptimeDay": "5.65%",
+    "uptimeWeek": "5.65%",
+    "uptimeMonth": "5.65%",
+    "uptimeYear": "5.65%",
+    "time": 600,
+    "timeDay": 600,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-05-19": 0
+      "2023-05-19": 1
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 594,
-    "timeDay": 548,
-    "timeWeek": 978,
-    "timeMonth": 639,
+    "timeDay": 527,
+    "timeWeek": 923,
+    "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2023-02-02": 27,
