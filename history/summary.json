@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/eirik.re.ico",
     "slug": "eirik-re",
     "status": "up",
-    "uptime": "5.65%",
-    "uptimeDay": "5.65%",
-    "uptimeWeek": "5.65%",
-    "uptimeMonth": "5.65%",
-    "uptimeYear": "5.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 600,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {
-      "2023-05-19": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eirik Rolland Enger",
