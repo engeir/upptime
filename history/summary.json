@@ -4,18 +4,20 @@
     "url": "https://eirik.re",
     "icon": "https://icons.duckduckgo.com/ip3/eirik.re.ico",
     "slug": "eirik-re",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 630,
-    "timeWeek": 727,
-    "timeMonth": 669,
-    "timeYear": 641,
-    "dailyMinutesDown": {}
+    "time": 642,
+    "timeDay": 695,
+    "timeWeek": 705,
+    "timeMonth": 677,
+    "timeYear": 642,
+    "dailyMinutesDown": {
+      "2023-07-15": 1
+    }
   },
   {
     "name": "Eirik Rolland Enger",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 600,
-    "timeDay": 503,
-    "timeWeek": 665,
-    "timeMonth": 578,
+    "timeDay": 791,
+    "timeWeek": 668,
+    "timeMonth": 592,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2023-02-02": 27,
