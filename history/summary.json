@@ -22,19 +22,19 @@
     "url": "https://eirikenger.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/eirikenger.xyz.ico",
     "slug": "eirikenger-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 375,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 611,
+    "timeDay": 589,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2023-11-07": 0
+      "2023-11-07": 10
     }
   }
 ]
