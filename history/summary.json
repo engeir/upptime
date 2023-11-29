@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 666,
-    "timeWeek": 486,
-    "timeMonth": 532,
-    "timeYear": 604,
+    "time": 605,
+    "timeDay": 727,
+    "timeWeek": 534,
+    "timeMonth": 538,
+    "timeYear": 605,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eirikenger.xyz.ico",
     "slug": "eirikenger-xyz",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 487,
-    "timeDay": 612,
-    "timeWeek": 513,
-    "timeMonth": 487,
-    "timeYear": 487,
-    "dailyMinutesDown": {
-      "2023-11-28": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 492,
+    "timeDay": 634,
+    "timeWeek": 546,
+    "timeMonth": 492,
+    "timeYear": 492,
+    "dailyMinutesDown": {}
   }
 ]
