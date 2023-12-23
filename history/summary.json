@@ -6,18 +6,16 @@
     "slug": "eirik-re",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 427,
-    "timeWeek": 577,
-    "timeMonth": 563,
+    "timeDay": 468,
+    "timeWeek": 575,
+    "timeMonth": 566,
     "timeYear": 600,
-    "dailyMinutesDown": {
-      "2023-12-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eirikenger.xyz",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 373,
-    "timeWeek": 482,
-    "timeMonth": 513,
-    "timeYear": 497,
+    "time": 495,
+    "timeDay": 419,
+    "timeWeek": 488,
+    "timeMonth": 515,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   }
 ]
