@@ -6,9 +6,9 @@
     "slug": "eirik-re",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 607,
     "timeDay": 797,
@@ -16,7 +16,7 @@
     "timeMonth": 708,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2024-03-17": 7,
+      "2024-03-17": 26,
       "2024-03-16": 40
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://eirikenger.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/eirikenger.xyz.ico",
     "slug": "eirikenger-xyz",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
-    "time": 516,
-    "timeDay": 530,
-    "timeWeek": 519,
-    "timeMonth": 610,
-    "timeYear": 516,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
+    "time": 530,
+    "timeDay": 1163,
+    "timeWeek": 758,
+    "timeMonth": 671,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-03-17": 7,
+      "2024-03-17": 25,
       "2024-03-16": 33
     }
   }
