@@ -25,7 +25,7 @@
     "url": "https://eirikenger.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/eirikenger.xyz.ico",
     "slug": "eirikenger-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 721,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2024-04-13": 0,
       "2024-03-17": 25,
       "2024-03-16": 33
     }
