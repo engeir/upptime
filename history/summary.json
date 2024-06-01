@@ -4,11 +4,11 @@
     "url": "https://eirik.re",
     "icon": "https://icons.duckduckgo.com/ip3/eirik.re.ico",
     "slug": "eirik-re",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 634,
     "timeDay": 793,
@@ -16,7 +16,7 @@
     "timeMonth": 809,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-06-01": 23,
+      "2024-06-01": 18,
       "2024-03-17": 45,
       "2024-03-16": 40
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-06-01": 1192,
+      "2024-06-01": 1199,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
