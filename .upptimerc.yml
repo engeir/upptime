@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: eirik.re
     url: https://eirik.re
-  - name: eirikenger.xyz
-    url: https://eirikenger.xyz
+  - name: gallery.eirik.re
+    url: https://gallery.eirik.re
 
 status-website:
   theme: dark
