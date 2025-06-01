@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 728,
-    "timeDay": 616,
-    "timeWeek": 718,
-    "timeMonth": 810,
+    "timeDay": 672,
+    "timeWeek": 732,
+    "timeMonth": 816,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-01-08": 1159,
@@ -24,8 +24,7 @@
       "2025-01-03": 599,
       "2024-11-24": 33,
       "2024-06-28": 118,
-      "2024-06-02": 27,
-      "2024-06-01": 146
+      "2024-06-02": 27
     }
   },
   {
@@ -34,15 +33,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gallery.eirik.re.ico",
     "slug": "gallery-eirik-re",
     "status": "up",
-    "uptime": "96.93%",
+    "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.93%",
+    "uptimeYear": "96.94%",
     "time": 874,
-    "timeDay": 582,
-    "timeWeek": 912,
-    "timeMonth": 872,
+    "timeDay": 934,
+    "timeWeek": 919,
+    "timeMonth": 880,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2025-01-08": 1159,
