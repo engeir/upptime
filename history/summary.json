@@ -4,7 +4,7 @@
     "url": "https://eirik.re",
     "icon": "https://icons.duckduckgo.com/ip3/eirik.re.ico",
     "slug": "eirik-re",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "52.73%",
     "uptimeWeek": "93.25%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2026-04-11": 1117,
+      "2026-04-11": 1140,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
